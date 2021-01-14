@@ -1,2 +1,2 @@
 # auth-form-angular
-Simple Angular reactive from for registration.
+Simple Angular reactive form for registration.
